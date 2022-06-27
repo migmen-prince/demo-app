@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "demo-app",
+    "slug": "demo-app",
+    "version": "1.0.0",
+    "sdkVersion": "45.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.demo"
+    },
+    "ios": {
+      "bundleIdentifier": "com.demo"
+    }
+  }
+}
